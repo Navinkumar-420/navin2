@@ -1,2 +1,2 @@
-name=str(input())
+name="navin kumar"
 print(name)
