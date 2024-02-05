@@ -1,3 +1,3 @@
 name="navin kumar"
-num=94
+num1=420
 print(name)
